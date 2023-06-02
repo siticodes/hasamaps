@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HASA Maps</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_maps">Map</string>
+>
+    <string name="members">
+    1. NURUL AFIQAH BINTI ABDULLAH(2020828686)\n\n
+    2. NUR ARINAH IZZATI BINTI MOHD AFAZI (2020834486)\n\n
+    3. NUR BATRISYIA HASBI BINTI HASMADI (2020601748)\n\n
+    4. SITI NURHALIZA BINTI MAT KHAMIS (2020476478)\n\n
+    </string>
+
+    <string name="About_text"><a href="https://github.com/nurul108/zakatapps.git">Source Code Link</a></string>
+</resources>
